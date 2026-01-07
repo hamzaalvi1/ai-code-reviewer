@@ -1,5 +1,7 @@
+import AuthWrapper from "@/features/auth/auth-wrapper";
+
 const LoginPage = () => {
-  return <div>LoginPage</div>;
+  return <AuthWrapper />;
 };
 
 export default LoginPage;
