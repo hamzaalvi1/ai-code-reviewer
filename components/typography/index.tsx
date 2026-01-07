@@ -1,5 +1,5 @@
-import clsx from "clsx";
 import { JSX } from "react";
+import { twMerge } from "tailwind-merge";
 import type { TypographyProps, Variant } from "./types";
 
 const styles: Record<Variant, string> = {
@@ -29,7 +29,7 @@ const Typography = ({
   const Component = as || defaultElement[variant] || "p";
 
   return (
-    <Component className={clsx(styles[variant], className)}>
+    <Component className={twMerge(styles[variant], className)}>
       {children}
     </Component>
   );

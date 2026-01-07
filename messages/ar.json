@@ -1,3 +1,14 @@
 {
-  "title": "title"
+  "auth": {
+    "code-reviewer-description": "قلّل وقت مراجعة الكود والأخطاء بنسبة 50٪. فورًا.",
+    "empower-team": "مكن فريقك من التسليم بشكل أسرع مع أحدث مراجعات الكود المدعومة بالذكاء الاصطناعي.",
+    "login-with-provider": "تسجيل الدخول باستخدام المزوّد التالي",
+    "welcome-back": "مرحبًا بعودتك",
+    "login-with-github": "تسجيل الدخول باستخدام GitHub",
+    "are-you-new-here": "هل أنت جديد في Codebird؟",
+    "sign-up": "سجل الآن",
+    "terms-of-use": "الشروط والأحكام",
+    "privacy-policy": "سياسة الخصوصية",
+    "and": "و"
+  }
 }
