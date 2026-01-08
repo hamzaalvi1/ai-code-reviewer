@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "code-reviewer-description": "Slash Code Review Time & Bugs by 50%. Instantly.",
+    "empower-team": "Empower your team to deliver faster with the most cutting-edge AI-powered code reviews.",
+    "login-with-provider": "Login with the following provider",
+    "welcome-back": "Welcome Back",
+    "login-with-github": "Login with GitHub",
+    "are-you-new-here": "Are you new to Codebird?",
+    "sign-up": "Sign Up",
+    "terms-of-use": "Terms of Use",
+    "privacy-policy": "Privacy Policy",
+    "and": "and",
+    "please-wait": "Please wait...",
+    "something-went-wrong": "Something went wrong",
+    "success": "Success"
+  }
+}
