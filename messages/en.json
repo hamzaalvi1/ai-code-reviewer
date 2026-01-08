@@ -9,6 +9,9 @@
     "sign-up": "Sign Up",
     "terms-of-use": "Terms of Use",
     "privacy-policy": "Privacy Policy",
-    "and": "and"
+    "and": "and",
+    "please-wait": "Please wait...",
+    "something-went-wrong": "Something went wrong",
+    "success": "Success"
   }
 }

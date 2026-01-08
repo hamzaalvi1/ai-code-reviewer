@@ -9,6 +9,9 @@
     "sign-up": "سجل الآن",
     "terms-of-use": "الشروط والأحكام",
     "privacy-policy": "سياسة الخصوصية",
-    "and": "و"
+    "and": "و",
+    "please-wait": "الرجاء الانتظار...",
+    "something-went-wrong": "حدث خطأ",
+    "success": "نجاح"
   }
 }

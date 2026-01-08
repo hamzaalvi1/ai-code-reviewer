@@ -1,5 +1,8 @@
 import { ComponentExample } from "@/components/component-example";
+import { requireAuthentication } from "@/utils/auth";
 
-export default function Page() {
-return <ComponentExample />;
+export default async function Page() {
+  await requireAuthentication();
+
+  return <ComponentExample />;
 }
