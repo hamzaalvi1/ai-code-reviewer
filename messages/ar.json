@@ -13,5 +13,12 @@
     "please-wait": "الرجاء الانتظار...",
     "something-went-wrong": "حدث خطأ",
     "success": "نجاح"
+  },
+  "dashboard": {
+    "dashboard": "الرئيسية",
+    "repositories": "المخازن",
+    "reviews": "المراجعات",
+    "subscriptions": "الاشتراكات",
+    "settings": "Settings"
   }
 }
