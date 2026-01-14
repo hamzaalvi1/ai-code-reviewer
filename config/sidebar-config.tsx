@@ -17,27 +17,27 @@ export const sidebarConfig = async (): Promise<SidebarConfig[]> => {
     {
       link: "/dashboard",
       label: t("dashboard"),
-      icon: <IconDashboardFilled />,
+      icon: <IconDashboardFilled className="size-5" />,
     },
     {
-      link: "/repositories",
+      link: "/dashboard/repositories",
       label: t("repositories"),
-      icon: <IconLibrary />,
+      icon: <IconLibrary className="size-5" />,
     },
     {
-      link: "/reviews",
+      link: "/dashboard/reviews",
       label: t("reviews"),
-      icon: <IconLibrary />,
+      icon: <IconLibrary className="size-5" />,
     },
     {
       link: "/subscriptions",
       label: t("subscriptions"),
-      icon: <IconSubscript />,
+      icon: <IconSubscript className="size-5" />,
     },
     {
       link: "/settings",
       label: t("settings"),
-      icon: <IconSettings />,
+      icon: <IconSettings className="size-5" />,
     },
   ];
 };
