@@ -13,5 +13,12 @@
     "please-wait": "Please wait...",
     "something-went-wrong": "Something went wrong",
     "success": "Success"
+  },
+  "dashboard": {
+    "dashboard": "Dashboard",
+    "repositories": "Repositories",
+    "reviews": "Reviews",
+    "subscriptions": "Subscriptions",
+    "settings": "Settings"
   }
 }

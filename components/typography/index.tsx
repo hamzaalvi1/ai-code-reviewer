@@ -8,6 +8,7 @@ const styles: Record<Variant, string> = {
   h3: "text-2xl font-semibold",
   body: "text-base font-normal",
   "body-sm": "text-sm",
+  paragraph: "text-[14px]",
   caption: "text-xs text-gray-500",
 };
 
